@@ -1,5 +1,8 @@
-﻿SuperPoder superPoder = new SuperPoder();
+﻿using Programa2.Models;
+
+SuperPoder superPoder = new SuperPoder();
 SuperHereo superHereo = new SuperHereo();
+AntiHeroe wolverin = new AntiHeroe();
 
 superPoder.Nombre = "Rayos laser";
 superPoder.Descripcion = "Puede sacar un rayo laser de sus ojos";
@@ -15,24 +18,10 @@ superHereo.Ciudad = "Metropolis";
 superHereo.PuedeVolar = true;
 superHereo.SuperPoderes = poderes;
 
-class SuperHereo
-{
-    public int Id;
-    public string Nombre;
-    public string IdentidadSecreta;
-    public string Ciudad;
-    public List<SuperPoder> SuperPoderes;
-    public bool PuedeVolar;
-
-}
-
-class SuperPoder
-{
-    public string Nombre;
-    public string Descripcion;
-    public NivelPoder nivel;
-
-}
+wolverin.Id = 2;
+wolverin.Nombre = "Wolverin";
+wolverin.IdentidadSecreta = "Logan";
+wolverin.PuedeVolar = false;
 
 enum NivelPoder
 {

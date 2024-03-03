@@ -1,0 +1,15 @@
+D:\Cursos\ProgramacioC#\GestionBiblioteca\obj\Debug\net8.0\GestionBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\ProgramacioC#\GestionBiblioteca\obj\Debug\net8.0\GestionBiblioteca.AssemblyInfoInputs.cache
+D:\Cursos\ProgramacioC#\GestionBiblioteca\obj\Debug\net8.0\GestionBiblioteca.AssemblyInfo.cs
+D:\Cursos\ProgramacioC#\GestionBiblioteca\obj\Debug\net8.0\GestionBiblioteca.csproj.CoreCompileInputs.cache
+D:\Cursos\ProgramacioC#\GestionBiblioteca\obj\Debug\net8.0\GestionBiblioteca.sourcelink.json
+D:\Cursos\ProgramacioC#\GestionBiblioteca\bin\Debug\net8.0\GestionBiblioteca.exe
+D:\Cursos\ProgramacioC#\GestionBiblioteca\bin\Debug\net8.0\GestionBiblioteca.deps.json
+D:\Cursos\ProgramacioC#\GestionBiblioteca\bin\Debug\net8.0\GestionBiblioteca.runtimeconfig.json
+D:\Cursos\ProgramacioC#\GestionBiblioteca\bin\Debug\net8.0\GestionBiblioteca.dll
+D:\Cursos\ProgramacioC#\GestionBiblioteca\bin\Debug\net8.0\GestionBiblioteca.pdb
+D:\Cursos\ProgramacioC#\GestionBiblioteca\obj\Debug\net8.0\GestionBiblioteca.dll
+D:\Cursos\ProgramacioC#\GestionBiblioteca\obj\Debug\net8.0\refint\GestionBiblioteca.dll
+D:\Cursos\ProgramacioC#\GestionBiblioteca\obj\Debug\net8.0\GestionBiblioteca.pdb
+D:\Cursos\ProgramacioC#\GestionBiblioteca\obj\Debug\net8.0\GestionBiblioteca.genruntimeconfig.cache
+D:\Cursos\ProgramacioC#\GestionBiblioteca\obj\Debug\net8.0\ref\GestionBiblioteca.dll

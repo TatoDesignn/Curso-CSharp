@@ -1,0 +1,15 @@
+D:\Cursos\ProgramacioC#\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\ProgramacioC#\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.AssemblyInfoInputs.cache
+D:\Cursos\ProgramacioC#\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.AssemblyInfo.cs
+D:\Cursos\ProgramacioC#\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.csproj.CoreCompileInputs.cache
+D:\Cursos\ProgramacioC#\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.sourcelink.json
+D:\Cursos\ProgramacioC#\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.exe
+D:\Cursos\ProgramacioC#\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.deps.json
+D:\Cursos\ProgramacioC#\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.runtimeconfig.json
+D:\Cursos\ProgramacioC#\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.dll
+D:\Cursos\ProgramacioC#\GestionEmpleados\bin\Debug\net8.0\GestionEmpleados.pdb
+D:\Cursos\ProgramacioC#\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.dll
+D:\Cursos\ProgramacioC#\GestionEmpleados\obj\Debug\net8.0\refint\GestionEmpleados.dll
+D:\Cursos\ProgramacioC#\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.pdb
+D:\Cursos\ProgramacioC#\GestionEmpleados\obj\Debug\net8.0\GestionEmpleados.genruntimeconfig.cache
+D:\Cursos\ProgramacioC#\GestionEmpleados\obj\Debug\net8.0\ref\GestionEmpleados.dll

@@ -1,0 +1,15 @@
+D:\Cursos\ProgramacioC#\GestionVehiculo\bin\Debug\net8.0\GestionVehiculo.exe
+D:\Cursos\ProgramacioC#\GestionVehiculo\bin\Debug\net8.0\GestionVehiculo.deps.json
+D:\Cursos\ProgramacioC#\GestionVehiculo\bin\Debug\net8.0\GestionVehiculo.runtimeconfig.json
+D:\Cursos\ProgramacioC#\GestionVehiculo\bin\Debug\net8.0\GestionVehiculo.dll
+D:\Cursos\ProgramacioC#\GestionVehiculo\bin\Debug\net8.0\GestionVehiculo.pdb
+D:\Cursos\ProgramacioC#\GestionVehiculo\obj\Debug\net8.0\GestionVehiculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\ProgramacioC#\GestionVehiculo\obj\Debug\net8.0\GestionVehiculo.AssemblyInfoInputs.cache
+D:\Cursos\ProgramacioC#\GestionVehiculo\obj\Debug\net8.0\GestionVehiculo.AssemblyInfo.cs
+D:\Cursos\ProgramacioC#\GestionVehiculo\obj\Debug\net8.0\GestionVehiculo.csproj.CoreCompileInputs.cache
+D:\Cursos\ProgramacioC#\GestionVehiculo\obj\Debug\net8.0\GestionVehiculo.sourcelink.json
+D:\Cursos\ProgramacioC#\GestionVehiculo\obj\Debug\net8.0\GestionVehiculo.dll
+D:\Cursos\ProgramacioC#\GestionVehiculo\obj\Debug\net8.0\refint\GestionVehiculo.dll
+D:\Cursos\ProgramacioC#\GestionVehiculo\obj\Debug\net8.0\GestionVehiculo.pdb
+D:\Cursos\ProgramacioC#\GestionVehiculo\obj\Debug\net8.0\GestionVehiculo.genruntimeconfig.cache
+D:\Cursos\ProgramacioC#\GestionVehiculo\obj\Debug\net8.0\ref\GestionVehiculo.dll
